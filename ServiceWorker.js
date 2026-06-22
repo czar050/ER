@@ -1,9 +1,9 @@
 const cacheName = "czar050-Endless Ride-0.1.0";
 const contentToCache = [
-    "Build/47.loader.js",
-    "Build/47.framework.js.unityweb",
-    "Build/47.data.unityweb",
-    "Build/47.wasm.unityweb",
+    "Build/48.loader.js",
+    "Build/48.framework.js.unityweb",
+    "Build/48.data.unityweb",
+    "Build/48.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
